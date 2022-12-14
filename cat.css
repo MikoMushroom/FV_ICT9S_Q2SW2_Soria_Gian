@@ -1,0 +1,31 @@
+body
+{
+	background-image: url(paper.png);
+}
+
+h1
+{
+	color: #383431
+}
+
+h2
+{
+	color: #45413c;
+	background: #d6c9ba;
+}
+
+h3
+{
+	color: #45413c;
+	background: #ebded1
+}
+
+table
+{
+	border: dashed;
+	border-color: #403c38
+}
+
+
+
+
